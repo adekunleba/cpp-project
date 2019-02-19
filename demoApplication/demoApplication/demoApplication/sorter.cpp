@@ -45,7 +45,7 @@ void sorter::printVector(std::vector<int> a)
 void sorter::farewell(void) 
 {
 	//the following line is missing a semicolon!
-	std::cout << "Have a nice day!" << std::endl
+	std::cout << "Have a nice day!" << std::endl;
 }
 
 sorter::~sorter()
